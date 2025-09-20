@@ -23,7 +23,7 @@ No more waiting 3–5 days for an IT engineer to manually build and deploy the d
 
 When you deploy a new Windows device, Autopilot takes advantage of the version of Windows that’s already preinstalled by the manufacturer. That means you don’t need to mess around with custom images or drivers for every model—no more re-imaging from scratch.
 
-!![Image Description](/images/Pasted%20image%2020250920202610.png)
+[[Pasted image 20250920202610.png]]
 
 Instead, Autopilot transforms that fresh-out-the-box device into a fully configured, business-ready machine. It applies the right settings and policies, installs the apps your team needs, and can even upgrade the Windows edition—for example, moving from Windows Pro to Enterprise to unlock advanced features.
 
