@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intune on Reframe IT</title>
+    <link>//localhost:1313/tags/intune/</link>
+    <description>Recent content in Intune on Reframe IT</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/intune/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protecting Your People and Data - The MSP’s Guide to Mobile Device Management</title>
+      <link>//localhost:1313/posts/intune---protecting-your-people-and-data/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/intune---protecting-your-people-and-data/</guid>
+      <description>&lt;p&gt;We’re living squarely in the age of information technology, where innovation is accelerating at an unprecedented pace. Artificial intelligence, in particular, has become nearly impossible to ignore - unless, of course, you’ve spent the last two years on a silent meditation retreat in the mountains of Tibet. When you pair this rapid technological evolution with today’s volatile geopolitical climate, it creates fertile ground for bad actors to exploit emerging systems and vulnerabilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
