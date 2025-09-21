@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on Reframe IT</title>
+    <link>/categories/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Reframe IT</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero Trust - What is it and why should we care?</title>
+      <link>/posts/zero-trust/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/zero-trust/</guid>
+      <description>&lt;p&gt;Practically every industry in the world is the same, awash with acronyms and corporate buzz words that leave many dazed and confused. If you’re like me, I dislike buzz words and prefer to speak straight to the point. Zero Trust is another that is commonplace within the IT world today, and you may have heard of it if you’re job role connects to IT, technology, data protection or regulatory compliance. But what does it mean?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

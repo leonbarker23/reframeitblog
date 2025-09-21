@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Reframe IT</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero Trust - What is it and why should we care?</title>
+      <link>/posts/zero-trust/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/zero-trust/</guid>
+      <description>&lt;p&gt;Practically every industry in the world is the same, awash with acronyms and corporate buzz words that leave many dazed and confused. If you’re like me, I dislike buzz words and prefer to speak straight to the point. Zero Trust is another that is commonplace within the IT world today, and you may have heard of it if you’re job role connects to IT, technology, data protection or regulatory compliance. But what does it mean?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Protecting Your People and Data - The MSP’s Guide to Mobile Device Management</title>
       <link>/posts/intune---protecting-your-people-and-data/</link>
@@ -21,20 +28,6 @@
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/posts/why-autopilot-is-a-must-have-for-growing-businesses/</guid>
       <description>&lt;p&gt;Picture the scene: It’s Friday afternoon, and a hiring manager urgently requests a new employee to be setup and ready by Monday morning. Normally, there’s a notice period to prepare—but this time, the employee is joining immediately to fill a critical gap.&lt;/p&gt;&#xA;&lt;p&gt;Cue the panic. Accounts need creating. Devices must be shipped, built, and configured. Applications installed. It’s a logistical headache with barely any time to breathe.&lt;/p&gt;&#xA;&lt;p&gt;Let me introduce, what I chalk up to magic or witchcraft: Windows Autopilot.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/my-new-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/my-new-blog/</guid>
-      <description>&lt;p&gt;Testing my new blog setup push via script to Git&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/zero-trust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/zero-trust/</guid>
-      <description>&lt;p&gt;🔐 How Zero Trust Helps Businesses Thrive in a Risky Digital World&lt;/p&gt;&#xA;&lt;p&gt;In today’s hyper-connected landscape, the traditional “castle and moat” approach to cybersecurity—where everything inside the network is trusted—has become dangerously outdated. With remote work, cloud services, and mobile access now the norm, businesses need a security model that reflects the reality of modern threats. Enter &lt;strong&gt;Zero Trust&lt;/strong&gt;: a powerful framework built on the principle of &lt;em&gt;“never trust, always verify.”&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
