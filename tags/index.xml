@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Reframe IT</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Reframe IT</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autopilot</title>
-      <link>//localhost:1313/tags/autopilot/</link>
+      <link>/tags/autopilot/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/autopilot/</guid>
+      <guid>/tags/autopilot/</guid>
       <description></description>
     </item>
     <item>
       <title>BYOD</title>
-      <link>//localhost:1313/tags/byod/</link>
+      <link>/tags/byod/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/byod/</guid>
+      <guid>/tags/byod/</guid>
       <description></description>
     </item>
     <item>
       <title>Intune</title>
-      <link>//localhost:1313/tags/intune/</link>
+      <link>/tags/intune/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/intune/</guid>
+      <guid>/tags/intune/</guid>
       <description></description>
     </item>
     <item>
       <title>Modernworkplace</title>
-      <link>//localhost:1313/tags/modernworkplace/</link>
+      <link>/tags/modernworkplace/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/modernworkplace/</guid>
+      <guid>/tags/modernworkplace/</guid>
       <description></description>
     </item>
     <item>
       <title>Onboarding</title>
-      <link>//localhost:1313/tags/onboarding/</link>
+      <link>/tags/onboarding/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/onboarding/</guid>
+      <guid>/tags/onboarding/</guid>
       <description></description>
     </item>
   </channel>

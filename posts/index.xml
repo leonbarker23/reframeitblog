@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Reframe IT</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Reframe IT</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protecting Your People and Data - The MSP’s Guide to Mobile Device Management</title>
-      <link>//localhost:1313/posts/intune---protecting-your-people-and-data/</link>
+      <link>/posts/intune---protecting-your-people-and-data/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/intune---protecting-your-people-and-data/</guid>
+      <guid>/posts/intune---protecting-your-people-and-data/</guid>
       <description>&lt;p&gt;We’re living squarely in the age of information technology, where innovation is accelerating at an unprecedented pace. Artificial intelligence, in particular, has become nearly impossible to ignore - unless, of course, you’ve spent the last two years on a silent meditation retreat in the mountains of Tibet. When you pair this rapid technological evolution with today’s volatile geopolitical climate, it creates fertile ground for bad actors to exploit emerging systems and vulnerabilities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows Autopilot</title>
-      <link>//localhost:1313/posts/why-autopilot-is-a-must-have-for-growing-businesses/</link>
+      <link>/posts/why-autopilot-is-a-must-have-for-growing-businesses/</link>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/why-autopilot-is-a-must-have-for-growing-businesses/</guid>
+      <guid>/posts/why-autopilot-is-a-must-have-for-growing-businesses/</guid>
       <description>&lt;p&gt;Picture the scene: It’s Friday afternoon, and a hiring manager urgently requests a new employee to be setup and ready by Monday morning. Normally, there’s a notice period to prepare—but this time, the employee is joining immediately to fill a critical gap.&lt;/p&gt;&#xA;&lt;p&gt;Cue the panic. Accounts need creating. Devices must be shipped, built, and configured. Applications installed. It’s a logistical headache with barely any time to breathe.&lt;/p&gt;&#xA;&lt;p&gt;Let me introduce, what I chalk up to magic or witchcraft: Windows Autopilot.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/zero-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/zero-trust/</guid>
+      <description>&lt;p&gt;🔐 How Zero Trust Helps Businesses Thrive in a Risky Digital World&lt;/p&gt;&#xA;&lt;p&gt;In today’s hyper-connected landscape, the traditional “castle and moat” approach to cybersecurity—where everything inside the network is trusted—has become dangerously outdated. With remote work, cloud services, and mobile access now the norm, businesses need a security model that reflects the reality of modern threats. Enter &lt;strong&gt;Zero Trust&lt;/strong&gt;: a powerful framework built on the principle of &lt;em&gt;“never trust, always verify.”&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

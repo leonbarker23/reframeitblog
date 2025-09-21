@@ -2,40 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/autopilot/</loc>
+    <loc>/tags/autopilot/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/byod/</loc>
+    <loc>/tags/byod/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/intune/</loc>
+    <loc>/tags/intune/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/modern-workplace/</loc>
+    <loc>/categories/modern-workplace/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/modernworkplace/</loc>
+    <loc>/tags/modernworkplace/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/onboarding/</loc>
+    <loc>/tags/onboarding/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/intune---protecting-your-people-and-data/</loc>
+    <loc>/posts/intune---protecting-your-people-and-data/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/why-autopilot-is-a-must-have-for-growing-businesses/</loc>
+    <loc>/posts/why-autopilot-is-a-must-have-for-growing-businesses/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/zero-trust/</loc>
   </url>
 </urlset>
