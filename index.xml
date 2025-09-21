@@ -24,6 +24,13 @@
     </item>
     <item>
       <title></title>
+      <link>/posts/my-new-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/my-new-blog/</guid>
+      <description>&lt;p&gt;Testing my new blog setup push via script to Git&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>/posts/zero-trust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/posts/zero-trust/</guid>
